@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.persistence:persistence-api:1.0.4-Lithium-SR4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/persistence/persistence-api/1.0.4-Lithium-SR4/persistence-api-1.0.4-Lithium-SR4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/persistence/persistence-api/1.0.4-Lithium-SR4/persistence-api-1.0.4-Lithium-SR4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/persistence/persistence-api/1.0.4-Lithium-SR4/persistence-api-1.0.4-Lithium-SR4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
